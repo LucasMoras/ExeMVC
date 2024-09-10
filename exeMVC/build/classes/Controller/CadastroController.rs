@@ -1,0 +1,3 @@
+controller.CadastroController
+controller.CadastroController$1
+controller.CadastroController$2

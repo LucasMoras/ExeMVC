@@ -1,0 +1,7 @@
+controller.CadastroController
+controller.CadastroController$1
+controller.CadastroController$2
+controller.LoginController
+view.LoginView
+controller.LoginController$1
+controller.LoginController$2
